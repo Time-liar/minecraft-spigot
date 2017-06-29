@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "0c17a5c0-ee3e-38f5-bde8-5393d01f3514",
+    "name": "TimeLiar",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3ec4b786-5a00-32ec-991f-773d11a9526e",
+    "name": "Zapler",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8f108361-8492-3311-87e1-251c887dc984",
+    "name": "Frida",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "823887fb-6abe-36ff-b0c5-fc28b563f053",
+    "name": "Zaplr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2ccdbedb-ad49-3978-943a-1837f443a93a",
+    "name": "smallSohoSolo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
